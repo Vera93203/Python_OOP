@@ -23,3 +23,7 @@ print(table)
 
 table.add_column("Footballer Name", ["Haland", "Mhabpee", "Ronaldo"])
 table.add_column("Power", ["Left", "Right", "Header"])
+
+print(table.align)
+
+print(table)
