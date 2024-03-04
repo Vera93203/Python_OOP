@@ -35,7 +35,7 @@ label_turtle.hideturtle()
 label_turtle.penup()
 label_turtle.goto(0, 300)  # Adjust the position to be more towards the top
 label_turtle.color("white")
-label_turtle.write("မန်ဃူဖန်တွေလီးပဲ🌝", align="center", font=("Arial", 25, "normal"))  # Increase font size
+label_turtle.write("မန်ဃူဖန်တွေလီးပဲ🫶🏻", align="center", font=("Arial", 25, "normal"))  # Increase font size
 
 # Draw labeled shapes
 draw_labeled_shapes()
